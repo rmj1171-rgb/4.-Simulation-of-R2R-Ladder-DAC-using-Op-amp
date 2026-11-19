@@ -1,11 +1,13 @@
 # 4.-Simulation-of-R2R-Ladder-DAC-using-Op-amp
-**Aim:**
+**Aim**
+
 To Simulate R2R-Ladder DAC using Op-amp
 
-**SOFTWARE REQUIRED:**
+**SOFTWARE REQUIRED**
+
  LT-Spice	
 
-**PROCEDURE:**
+**PROCEDURE**
 •	Double click on LT-Spice icon.
 
 •	New schematic window open.
@@ -28,6 +30,7 @@ To Simulate R2R-Ladder DAC using Op-amp
   **Output waveform**
   
 <img width="473" height="766" alt="Screenshot 2026-11-19 083749" src="https://github.com/user-attachments/assets/9f3019ac-7f42-417e-99d4-d7288943e9f2" />
+
 
 
 
